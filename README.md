@@ -1,4 +1,4 @@
-# Re_identification_in_a_Single_Feed\
+# Re_identification_in_a_Single_Feed
 
 # ⚽ Player Re-Identification in a Single Video Feed
 
